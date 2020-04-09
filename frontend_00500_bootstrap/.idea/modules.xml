@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../frontend_00300_boogle/.idea/frontend_00300_boogle.iml" filepath="$PROJECT_DIR$/../frontend_00300_boogle/.idea/frontend_00300_boogle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/frontend_00500_bootstrap.iml" filepath="$PROJECT_DIR$/.idea/frontend_00500_bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wd1-20200323/.idea/wd1-20200323.iml" filepath="$PROJECT_DIR$/../wd1-20200323/.idea/wd1-20200323.iml" />
+    </modules>
+  </component>
+</project>

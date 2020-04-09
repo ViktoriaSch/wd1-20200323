@@ -1,0 +1,13 @@
+        /*
+            Create styles for hovering ver a div with color change
+        */
+.image {
+    padding: 10px;
+    border: 6px red solid;
+    margin: 20px;
+}
+
+
+.image:hover {
+  border: 6px green solid;
+}
